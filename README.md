@@ -1,6 +1,6 @@
 # TerrainMapper Pro: DEM Analysis & PBR Map Generator
 
-https://github.com/user-attachments/assets/66b457be-bb52-4972-91c6-19a64b15c671
+![image](https://github.com/user-attachments/assets/fb7028e5-3156-47a3-9fc6-328588c41177) ![image](https://github.com/user-attachments/assets/6e7e4884-468e-49bd-bb72-06a1d1868245) ![image](https://github.com/user-attachments/assets/092ac1e6-5bab-4e30-a062-da63bd146e17)
 ---
 
 ## Overview
@@ -46,7 +46,7 @@ Whether you're a GIS professional, 3D artist, or hobbyist, TerrainMapper Pro sim
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/fb7028e5-3156-47a3-9fc6-328588c41177) ![image](https://github.com/user-attachments/assets/6e7e4884-468e-49bd-bb72-06a1d1868245) ![image](https://github.com/user-attachments/assets/092ac1e6-5bab-4e30-a062-da63bd146e17)
+
 
 
 
