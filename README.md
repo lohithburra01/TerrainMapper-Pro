@@ -1,15 +1,6 @@
-### Project Title:
-**TerrainMapper Pro: DEM Analysis & PBR Map Generator**
-
----
-
-### GitHub README:
-
 # TerrainMapper Pro: DEM Analysis & PBR Map Generator
 
-![Banner Image](https://via.placeholder.com/1200x400)  
-*(Replace with a banner image showcasing the app in action, e.g., a 3D terrain visualization or exported maps)*
-
+https://github.com/user-attachments/assets/66b457be-bb52-4972-91c6-19a64b15c671
 ---
 
 ## Overview
