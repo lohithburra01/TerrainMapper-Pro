@@ -174,7 +174,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
+- **Email**: burralohith01@gmail.com
 - **GitHub**: https://github.com/lohithburra01
 
 ---
